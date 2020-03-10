@@ -1,3 +1,2 @@
 class Person
-  @name = "Beyonce"
-end
+  def 
